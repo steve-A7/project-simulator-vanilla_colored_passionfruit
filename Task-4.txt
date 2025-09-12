@@ -1,0 +1,5 @@
+Login for Manager
+
+Description
+
+As a manager I want to login with my username and password so that system can authenticate me, and I can start my management duty
