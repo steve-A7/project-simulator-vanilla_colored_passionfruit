@@ -1,0 +1,7 @@
+Title: Create New Profile for Manager
+
+User Description of Feature:
+As an Admin, I want to create a new Manager profile by entering the manager’s details (name, email, username, password, role) so that the Manager can access the system with proper permissions.
+
+Technical Overview:
+Implement a UI form for adding a new Manager profile and connect it to the database. Validate input fields and ensure the data is stored securely in the database.
