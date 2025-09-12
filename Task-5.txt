@@ -1,0 +1,7 @@
+Title
+
+Login for Salesman
+
+Description
+
+As a Salesman I want to login with my username and password so that system can authenticate me, and I can start my sales duty.
