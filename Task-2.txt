@@ -1,0 +1,2 @@
+Trello Task: View Profile Details
+Description: Executives will be able to view their profile details (name, email, role)
